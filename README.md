@@ -1,4 +1,4 @@
-# Chat Tags
+# Player Tags
 Custom player name tags & message colors, you can make presets in the configuration file, also players have the ability to manage their settings with a menu.
 
 ## Installation
